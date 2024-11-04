@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uvogeole.github.io/McH/sitemap_index.txt
+Sitemap: https://uvogeole.github.io/QyS/sitemap_index.txt
+Sitemap: https://uvogeole.github.io/oeN/sitemap_index.txt
+Sitemap: https://uvogeole.github.io/rUT/sitemap_index.txt
